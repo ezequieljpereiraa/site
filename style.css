@@ -715,7 +715,7 @@ overflow: hidden;
 }
 [ripple] .ripple {
 position: absolute;
-background: #000000;
+background: #ffffff;
 width: 15px;
 height: 12px;
 border-radius: 100%;
